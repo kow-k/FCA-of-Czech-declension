@@ -8,6 +8,8 @@ Publication of the data and tools used for "How are inflectional paradigms repre
 
 2. [source file of (1)](src-czech-declension-data12a.txt)
 
+# scripts
+
 3. [Python script](paradigm-encoder2.py) that converts (2) into (1)
 
 Usage:
