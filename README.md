@@ -24,12 +24,12 @@ Usage:
 
 # papers
 
-5. original version [PDF](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/D5-3.pdf)
+5. original version [PDF (written in English)](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/D5-3.pdf)
 
-6. revised, enlarged but unpublished version [PDF](https://www.dropbox.com/s/ki84sjjhwx6106q/FCA-meets-cz-declensions-nlp2016-rev2.pdf?dl=0)
+6. revised, enlarged but unpublished version [PDF (written in English)](https://www.dropbox.com/s/ki84sjjhwx6106q/FCA-meets-cz-declensions-nlp2016-rev2.pdf?dl=0)
 
 # slides used at presentation
 
-7. [PDF (written in Japanese)]()
+7. [PDF (written in Japanese)](https://www.dropbox.com/s/xqghp5p3hvd4hmq/FCA-meets-declension-nlp22-slides.pdf?dl=0)
 
 
